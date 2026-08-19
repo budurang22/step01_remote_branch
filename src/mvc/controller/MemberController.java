@@ -12,4 +12,8 @@ public class MemberController {
 	public void print3() {
 		System.out.println("스쿼시 테스트2");
 	}
+	
+	public void print4() {
+		System.out.println("스쿼시 테스트3");
+	}
 }
