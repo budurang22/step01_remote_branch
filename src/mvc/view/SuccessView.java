@@ -1,0 +1,7 @@
+package mvc.view;
+
+public class SuccessView {
+	public void print() {
+		System.out.println("print");
+	}
+}
