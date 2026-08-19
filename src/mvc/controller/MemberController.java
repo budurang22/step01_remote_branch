@@ -16,4 +16,8 @@ public class MemberController {
 	public void print4() {
 		System.out.println("스쿼시 테스트3");
 	}
+	
+	public void home() {
+		System.out.println("집 갈래");
+	}
 }
