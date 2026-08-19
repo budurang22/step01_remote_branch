@@ -8,4 +8,8 @@ public class MemberController {
 	public void print2() {
 		System.out.println("스쿼시 테스트1");
 	}
+	
+	public void print3() {
+		System.out.println("스쿼시 테스트2");
+	}
 }
